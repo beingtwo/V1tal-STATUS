@@ -36,8 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching marc","Listening xsas","Playing hertz"];
-
+const statusMessages = ["Xsas","MarcV1tal","BillyV1tal","BaconV1tal","LachieV1tal","HertzV1tal","NeonV1tal"];
 
 let currentIndex = 0;
 const channelId = '';
